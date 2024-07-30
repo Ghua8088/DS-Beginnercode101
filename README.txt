@@ -1,5 +1,4 @@
-This is a C++ program that implements a hash table using an array of linked lists. Here's a detailed explanation
-of the code:
+This is a C++ program that implements a hash table using an array of linked lists. Here's a detailed explanation of the code:
 1. The program starts by defining two classes: `record` and `Hashtab`. The `record` class has four members:
 `registernumber`, `name`, `course`, and `dob`. It also has three methods: `get()`, `update()`, and `display()`.
 The `Hashtab` class has a private member variable `L`, which is an array of `List` objects. It also has public
